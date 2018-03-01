@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_notif_detail_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="01/01/2017"
+            style="@style/Base.TextAppearance.AppCompat.Headline"
+            android:layout_marginTop="10dp"/>
+        <ListView
+            android:id="@+id/list_notification_detail"
+            android:layout_width="match_parent"
+            android:layout_height="512dp"
+            android:divider="@null"
+            android:dividerHeight="0dp"/>
+            <!--android:layout_margin="10dp"-->
+            <!--android:layout_marginLeft="10dp"/>-->
+
+
+
+
+</LinearLayout>

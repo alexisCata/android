@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_home"
+        android:title="@string/menu_home"
+        android:icon="@drawable/ic_account_circle_black_24dp" />
+    <!--<item android:id="@+id/action_calendar"-->
+        <!--android:title="@string/menu_calendar"-->
+        <!--android:icon="@drawable/ic_assignment_ind_black_24dp"/>-->
+
+    <item android:id="@+id/action_subjects"
+        android:title="@string/menu_subjects"
+        android:icon="@drawable/ic_account_box_black_24dp"/>
+
+    <item android:id="@+id/action_tasks"
+        android:title="@string/menu_exams_tasks"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"/>
+
+    <item android:id="@+id/action_chats"
+        android:title="@string/menu_chats"
+        android:icon="@drawable/ic_account_box_black_24dp"/>
+
+    <item android:id="@+id/action_new_notification"
+        android:title="@string/menu_new_notification"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"/>
+
+
+</menu>

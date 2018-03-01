@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">School Padres</string>
+
+    <string name="action_logout" translatable="true">Cerrar Sesión</string>
+    <string name="email_error" translatable="true">Introduzca un Email válido</string>
+    <string name="password_error" translatable="true">Introduzca entre 4 y 20 caracteres alfanuméricos</string>
+    <string name="school_name" translatable="true">Nombre Colegio</string>
+
+    <string name="menu_home" translatable="true">Inicio</string>
+    <string name="menu_calendar" translatable="true">Calendario</string>
+    <string name="menu_chats" translatable="true">Chats</string>
+    <string name="menu_subjects" translatable="true">Asignaturas</string>
+    <string name="menu_tasks" translatable="true">Tareas y Examenes</string>
+
+    <string name="parent_name" >Nombre Padre</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="select_child">Seleccione estudiante</string>
+    <string name="action_send">Enviar</string>
+    <string name="prompt_message">Mensaje</string>
+    <string name="all_events">Todos los eventos</string>
+    <string name="generic">Genérico</string>
+    <string name="task">Tarea</string>
+    <string name="exam">Examen</string>
+    <string name="abscence">Ausencia</string>
+    <string name="date">Fecha:</string>
+    <string name="subject">Asignatura:</string>
+    <string name="type">Tipo evento:</string>
+    <string name="title">Título:</string>
+    <string name="description">Descripción:</string>
+    <string name="tasks">Tareas</string>
+    <string name="exams">Exámenes</string>
+    <string name="login_error">Datos incorrectos</string>
+    <string name="profile_error">Usted no tiene el perfil necesario</string>
+    <string name="gallery_photo">Seleccionar de la galería</string>
+    <string name="camera_photo">Hacer una foto</string>
+    <string name="error">Error</string>
+    <string name="select_student">Seleccionar estudiante</string>
+    <string name="select_image">Seleccionar imagen</string>
+    <string name="server_error">Error de servidor</string>
+    <string name="new_notifications">Nuevas notificaciones</string>
+    <string name="absences">Ausencias</string>
+    <string name="total">Total</string>
+    <string name="last_month">Último mes</string>
+    <string name="results">Notas</string>
+    <string name="result">Nota</string>
+
+</resources>

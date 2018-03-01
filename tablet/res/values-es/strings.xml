@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">School Profesor</string>
+
+    <string name="action_logout" translatable="true">Cerrar Sesión</string>
+    <string name="email_error" translatable="true">Introduzca un Email válido</string>
+    <string name="password_error" translatable="true">Introduzca entre 4 y 20 caracteres alfanuméricos</string>
+    <string name="school_name" translatable="true">Nombre Colegio</string>
+
+    <string name="menu_home" translatable="true">Inicio</string>
+    <string name="menu_calendar" translatable="true">Calendario</string>
+    <string name="menu_chats" translatable="true">Chats</string>
+    <string name="menu_subjects" translatable="true">Asignaturas</string>
+    <string name="menu_tasks" translatable="true">Tareas</string>
+
+    <string name="parent_name" >Nombre Padre</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="select_child">Seleccione estudiante</string>
+    <string name="action_send">Enviar</string>
+    <string name="prompt_message">Mensaje</string>
+    <string name="all_events">Todos los eventos</string>
+    <string name="generic">Genérico</string>
+    <string name="task">Tarea</string>
+    <string name="exam">Examen</string>
+    <string name="absence">Ausencia</string>
+    <string name="date">Fecha:</string>
+    <string name="subject">Asignatura:</string>
+    <string name="subjects">Asignaturas</string>
+    <string name="type">Tipo evento:</string>
+    <string name="title">Título:</string>
+    <string name="description">Descripción:</string>
+    <string name="tasks">Tareas</string>
+    <string name="exams">Exámenes</string>
+    <string name="class_">Clase:</string>
+    <string name="student">Alumno:</string>
+    <string name="login_error">Datos incorrectos</string>
+    <string name="profile_error">Usted no tiene el perfil necesario</string>
+    <string name="menu_new_notification">Nueva notificación</string>
+    <string name="date_error">Seleccione una fecha</string>
+    <string name="title_error">Introduzca un título</string>
+    <string name="description_error">Introduzca una descripción</string>
+    <string name="notification_sent">Notificación enviada</string>
+    <string name="notification_send_error">Error enviando la notificación</string>
+    <string name="confirm_send">¿Confirmar envío?</string>
+    <string name="select_parent">Seleccione</string>
+    <string name="delete_notification">¿Borrar notificación?</string>
+    <string name="edit_notification">¿Editar notificación?</string>
+    <string name="gallery_photo">Seleccionar de la galería</string>
+    <string name="camera_photo">Hacer una foto</string>
+    <string name="error">Error</string>
+    <string name="send">Enviar</string>
+    <string name="menu_exams_tasks">Exámenes y tareas</string>
+    <string name="server_error">Error del servidor</string>
+    <string name="sending_notif">Enviando notificación</string>
+    <string name="notification_deleted">Notificación borrada</string>
+    <string name="notification_updated">Notificación actualizada</string>
+    <string name="schedule">Horario</string>
+    <string name="messages">Mensajes</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="student_error">Seleccione un alumno</string>
+    <string name="absences">Ausencias</string>
+    <string name="total">Total</string>
+    <string name="last_month">Último mes</string>
+    <string name="results">Notas</string>
+    <string name="result">Nota</string>
+    <string name="evaluate_task">¿Evaluar tarea?</string>
+    <string name="evaluate_exam">¿Evaluar examen?</string>
+
+    <string name="score">Nota:</string>
+    <string name="comments">Comentarios:</string>
+
+
+</resources>

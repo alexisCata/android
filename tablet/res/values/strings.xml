@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">School Teacher</string>
+
+    <string name="action_logout" >Logout</string>
+    <string name="email_error" >Enter a valid Email</string>
+    <string name="password_error" >Enter between 4 and 20 alphanumeric characters</string>
+    <string name="school_name" >School Name</string>
+
+    <string name="menu_home" >Home</string>
+    <string name="menu_calendar" >Calendar</string>
+    <string name="menu_chats" >Chats</string>
+    <string name="menu_subjects" >Subjects</string>
+    <string name="menu_tasks" >Tasks</string>
+
+    <string name="parent_name" >Parent Name</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_child">Select student</string>
+    <string name="action_send">Send</string>
+    <string name="prompt_message">Message</string>
+    <string name="all_events">All events</string>
+    <string name="generic">Generic</string>
+    <string name="task">Task</string>
+    <string name="exam">Exam</string>
+    <string name="absence">Absence</string>
+    <string name="type">Event type:</string>
+    <string name="subject">Subject:</string>
+    <string name="subjects">Subjects</string>
+    <string name="date">Date:</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="tasks">Tasks</string>
+    <string name="exams">Exams</string>
+    <string name="class_">Class:</string>
+    <string name="student">Student:</string>
+    <string name="login_error">Login failed</string>
+    <string name="profile_error">You don\'t have needed profile to access</string>
+    <string name="menu_new_notification">New notification</string>
+    <string name="date_error">Select a date</string>
+    <string name="title_error">Enter a title</string>
+    <string name="description_error">Enter a description</string>
+    <string name="notification_sent">Notification sent</string>
+    <string name="notification_send_error">Error sending the notification</string>
+    <string name="confirm_send">Confirm sending?</string>
+    <string name="select_parent">Select parent</string>
+    <string name="delete_notification">Delete notification?</string>
+    <string name="edit_notification">Edit notification?</string>
+    <string name="gallery_photo">Pick from gallery</string>
+    <string name="camera_photo">Take a picture</string>
+    <string name="error">Error</string>
+    <string name="send">Send</string>
+    <string name="menu_exams_tasks">Exams and tasks</string>
+    <string name="server_error">Server error</string>
+    <string name="sending_notif">Sending notification</string>
+    <string name="notification_deleted">Notification deleted</string>
+    <string name="notification_updated">Notification updated</string>
+    <string name="schedule">Schedule</string>
+    <string name="messages">Messages</string>
+    <string name="notifications">Notifications</string>
+    <string name="student_error">Select a student</string>
+    <string name="absences">Absences</string>
+    <string name="total">Total</string>
+    <string name="last_month">Last month</string>
+    <string name="results">Results</string>
+    <string name="result">Result</string>
+    <string name="evaluate_task">Evaluate task?</string>
+    <string name="evaluate_exam">Evaluate exam?</string>
+
+    <string name="score">Score:</string>
+    <string name="comments">Comments:</string>
+
+
+</resources>

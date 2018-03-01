@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">School Parent</string>
+
+    <string name="action_logout" >Logout</string>
+    <string name="email_error" >Enter a valid Email</string>
+    <string name="password_error" >Enter between 4 and 20 alphanumeric characters</string>
+    <string name="school_name" >School Name</string>
+
+    <string name="menu_home" >Home</string>
+    <string name="menu_calendar" >Calendar</string>
+    <string name="menu_chats" >Chats</string>
+    <string name="menu_subjects" >Subjects</string>
+    <string name="menu_tasks" >Tasks and exams</string>
+
+    <string name="parent_name" >Parent Name</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_child">Select student</string>
+    <string name="action_send">Send</string>
+    <string name="prompt_message">Message</string>
+    <string name="all_events">All events</string>
+    <string name="generic">Generic</string>
+    <string name="task">Task</string>
+    <string name="exam">Exam</string>
+    <string name="abscence">Absence</string>
+    <string name="type">Event type:</string>
+    <string name="subject">Subject:</string>
+    <string name="date">Date:</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="tasks">Tasks</string>
+    <string name="exams">Exams</string>
+    <string name="login_error">Login failed</string>
+    <string name="profile_error">You don\'t have needed profile to access</string>
+    <string name="gallery_photo">Pick from gallery</string>
+    <string name="camera_photo">Take a picture</string>
+    <string name="error">Error</string>
+    <string name="select_student">Select student</string>
+    <string name="select_image">Select image</string>
+    <string name="server_error">Server error</string>
+    <string name="new_notifications">New notifications</string>
+    <string name="absences">Absences</string>
+    <string name="total">Total</string>
+    <string name="last_month">Last month</string>
+    <string name="results">Results</string>
+    <string name="result">Result</string>
+
+
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp">
+
+                <LinearLayout
+                    android:id="@+id/layout_date_task"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/tv_notif_date"
+                        style="@style/TextAppearance.AppCompat.Body2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="2017-09-26" />
+
+                    <TextView
+                        style="@style/TextAppearance.AppCompat.Body2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="-" />
+
+
+                    <TextView
+                        android:id="@+id/tv_notif_subject"
+                        style="@style/TextAppearance.AppCompat.Body2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@+id/tv_notif_type"
+                        android:text="" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tv_notif_tittle"
+                    style="@style/TextAppearance.AppCompat.Body1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|start"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/tv_notif_description"
+                    style="@style/TextAppearance.AppCompat.Small"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|start"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_notif_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_margin="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:text="Task" />
+
+        </FrameLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>--><!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--xmlns:tools="http://schemas.android.com/tools"--><!--android:layout_width="match_parent"--><!--android:layout_height="wrap_content"--><!--android:padding="2dp"--><!--android:layout_margin="1dp"--><!--android:orientation="horizontal"--><!--android:background="@color/notification_back"--><!--&gt;--><!--<TextView--><!--android:id="@+id/tv_notif_date"--><!--style="@style/TextAppearance.AppCompat.Title"--><!--android:layout_width="110dp"--><!--android:layout_height="wrap_content"--><!--android:layout_gravity="center_vertical|start"--><!--tools:text="2017-09-26"--><!--android:background="@drawable/border"/>-->
+
+
+    <!--<TextView--><!--android:id="@+id/tv_notif_tittle"--><!--style="@style/TextAppearance.AppCompat.Title"--><!--android:layout_width="178dp"--><!--android:layout_height="wrap_content"--><!--android:layout_gravity="center_vertical|end"--><!--tools:text="Task"--><!--android:background="@drawable/border"/>-->
+
+    <!--</LinearLayout>-->

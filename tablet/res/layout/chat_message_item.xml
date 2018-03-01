@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout_message"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right">
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv_chat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp">
+    <TextView
+        android:id="@+id/tv_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="330dp"
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:text=" asdfads asda sda sda sdasd asd asd asd asd asd asd asd asdasdasd asda sd asdasdasdasd as dasd asd asd asd asd @string/prompt_message"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_msg_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="7sp"
+        android:text="10:20"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="15dp"
+
+        android:layout_gravity="bottom|right"
+
+        />
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+
+<!--<LinearLayout-->
+    <!--android:id="@+id/layout_message"-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:orientation="horizontal" android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="right">-->
+    <!--<TextView-->
+        <!--android:id="@+id/tv_message"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:maxWidth="320dp"-->
+        <!--style="@style/TextAppearance.AppCompat.Body1"-->
+        <!--android:text="Hello"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_marginLeft="10dp"-->
+        <!--android:layout_marginBottom="15dp"-->
+        <!--/>-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/tv_msg_time"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="10sp"-->
+        <!--android:text="10:20"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_marginBottom="2dp"-->
+        <!--android:layout_gravity="bottom"-->
+
+        <!--/>-->
+
+<!--</LinearLayout>-->
